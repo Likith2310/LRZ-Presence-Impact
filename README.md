@@ -81,10 +81,12 @@ attention — using only publicly available data.
 ## Dashboard Preview
 
 ### Google Sheets Dashboard
-[Add screenshot here]
+[<img width="1170" height="889" alt="Screenshot 2026-06-10 154100" src="https://github.com/user-attachments/assets/1e96002e-e1b8-4141-a6c0-982b612f3eb7" />
+]
 
 ### Power BI Dashboard
-[Add screenshot here]
+[<img width="1739" height="1048" alt="PBI Dashboard" src="https://github.com/user-attachments/assets/70762296-f5de-425c-8594-b572456edfa3" />
+]
 
 ---
 
@@ -141,4 +143,4 @@ posts are areas worth attention.
 ---
 
 ## Connect
-[Your LinkedIn profile link]
+[https://www.linkedin.com/in/likith-bathula-67b95b2b7]
