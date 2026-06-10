@@ -132,15 +132,5 @@ posts are areas worth attention.
 
 ---
 
-## Files
-| File | Description |
-|------|-------------|
-|- <a href="https://github.com/Likith2310/LRZ-Presence-Impact/blob/main/LRZ1 - Raw_Data.csv">125 posts with calculated metrics |
-| LRZ_Written_Summary.pdf | Approach, insights and assumptions |
-| Dashboard_Screenshot_Sheets.png | Google Sheets dashboard |
-| Dashboard_Screenshot_PowerBI.png | Power BI dashboard |
-
----
-
 ## Connect
 [https://www.linkedin.com/in/likith-bathula-67b95b2b7]
