@@ -81,12 +81,12 @@ attention — using only publicly available data.
 ## Dashboard Preview
 
 ### Google Sheets Dashboard
-[<img width="1170" height="889" alt="Screenshot 2026-06-10 154100" src="https://github.com/user-attachments/assets/1e96002e-e1b8-4141-a6c0-982b612f3eb7" />
-]
+<img width="1170" height="889" alt="Screenshot 2026-06-10 154100" src="https://github.com/user-attachments/assets/1e96002e-e1b8-4141-a6c0-982b612f3eb7" />
+
 
 ### Power BI Dashboard
-[<img width="1739" height="1048" alt="PBI Dashboard" src="https://github.com/user-attachments/assets/70762296-f5de-425c-8594-b572456edfa3" />
-]
+<img width="1739" height="1048" alt="PBI Dashboard" src="https://github.com/user-attachments/assets/70762296-f5de-425c-8594-b572456edfa3" />
+
 
 ---
 
@@ -135,7 +135,8 @@ posts are areas worth attention.
 ## Files
 | File | Description |
 |------|-------------|
-| LRZ_Raw_Data.csv | 125 posts with calculated metrics |
+|- <a href="https://github.com/Likith2310/LRZ-Presence-Impact/blob/main/LRZ1 - Raw_Data.csv">Dataset</a>
+| 125 posts with calculated metrics |
 | LRZ_Written_Summary.pdf | Approach, insights and assumptions |
 | Dashboard_Screenshot_Sheets.png | Google Sheets dashboard |
 | Dashboard_Screenshot_PowerBI.png | Power BI dashboard |
