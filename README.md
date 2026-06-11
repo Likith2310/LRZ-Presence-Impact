@@ -133,4 +133,4 @@ posts are areas worth attention.
 ---
 
 ## Connect
-[https://www.linkedin.com/in/likith-bathula-67b95b2b7]
+https://www.linkedin.com/in/likith-bathula-67b95b2b7
